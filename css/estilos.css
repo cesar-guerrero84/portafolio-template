@@ -365,6 +365,9 @@ margin: 10px;
     .jam3 {
         display: block;
     }
+    .elim-chan{
+        display: block;
+    }
 }
 @media screen and (max-width:480px){
 
